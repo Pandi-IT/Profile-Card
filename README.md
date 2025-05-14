@@ -1,3 +1,16 @@
+1.Simple & Clean: "A sleek, responsive profile card built with HTML and CSS."
+
+2.Minimalist Approach: "A lightweight profile card component for showcasing personal or professional info."
+
+3.Customizable: "An easy-to-edit profile card template for developers."
+
+4.Modern UI: "A clean, modern profile card with smooth hover effects."
+
+5.Quick Integration: "Copy-paste ready profile card for your portfolio or website."
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
